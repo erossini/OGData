@@ -1,4 +1,4 @@
-#OGData extension for BlogEngine.NET 
+# OGData extension for BlogEngine.NET 
 
 Since Facebook launched their share link feature anyone including you can share your site or pages to their friends. You can tailor what is displayed on the Facebook wall in terms of title, description image and URL.
 
